@@ -1,0 +1,2558 @@
+{
+    "words":[
+        {
+            "english": {
+                "word":"Ask",
+                "usage":"Ask me a question."
+            },
+            "oshikwanyama":{
+                "word":"Pula",
+                "usage":"Pula epulo."
+            }
+        },
+        {
+            "english": {
+                "word":"Abattoir",
+                "usage":"We are going to the abattoir to but meat."
+            },
+            "oshikwanyama":{
+                "word":"Okatomeno",
+                "usage":"Ohatu i kokatomeno tukalande ombelela."
+            }
+        },
+        {
+            "english": {
+                "word":"About",
+                "usage":"The discussion is about words."
+            },
+            "oshikwanyama":{
+                "word":"Kombinga",
+                "usage":"Oshipopiwa oshili kombinga yoitya."
+            }
+	},
+        {
+            "english": {
+                "word":"Able",
+                "usage":"I am able to write words."
+            },
+            "oshikwanyama":{
+                "word":"Okudula",
+                "usage":"Ohandi dulu okushanga oitya."
+            }
+	},
+        {
+            "english": {
+                "word":"Animal",
+                "usage":"A rabbit is an animal."
+            },
+            "oshikwanyama":{
+                "word":"Oshinamwenyo",
+                "usage":"Okandia nako oshinamwenyo."
+            }
+	},
+        {
+            "english": {
+                "word":"Accept",
+                "usage":"I accept the invitation."
+            },
+            "oshikwanyama":{
+                "word":"Okutambulako",
+                "usage":"Onda tambulako eshiivo loye."
+            }
+	},
+        {
+            "english": {
+                "word":"Accident",
+                "usage":"An accident occurred yesterday."
+            },
+            "oshikwanyama":{
+                "word":"Oshiponga",
+                "usage":"Opaholokele oshiponga onghela."
+            }
+	},
+        {
+            "english": {
+                "word":"Action",
+                "usage":"Take action today."
+            },
+            "oshikwanyama":{
+                "word":"Onghatu",
+                "usage":"Kufa onghatu nena."
+            }
+	},
+        {
+            "english": {
+                "word":"Abduct",
+                "usage":"The girl has been abducted."
+            },
+            "oshikwanyama":{
+                "word":"Okukwatapo",
+                "usage":"Okakadona okakwatwapo."
+            }
+	},
+        {
+            "english": {
+                "word":"Advice",
+                "usage":"I need the right advice."
+            },
+            "oshikwanyama":{
+                "word":"Omayele",
+                "usage":"Ondapumbwa omayele eli mondjila."
+            }
+	},
+        {
+            "english": {
+                "word":"Again",
+                "usage":"I need to hear this song again."
+            },
+            "oshikwanyama":{
+                "word":"Natango",
+                "usage":"Natango ondapumbwa okuuda okangalo aka."
+            }
+	},
+        {
+            "english": {
+                "word":"Argue",
+                "usage":"My friends like to argue."
+            },
+            "oshikwanyama":{
+                "word":"Tanguna .",
+                "usage":"Omaume ange okuhole okutanguna."
+            }
+	},
+        {
+            "english": {
+                "word":"Avert",
+                "usage":"Simon averted her."
+            },
+            "oshikwanyama":{
+                "word":"Henuka",
+                "usage":"Simon okwemu henuka."
+            }
+	},
+        {
+            "english": {
+                "word":"Area",
+                "usage":"This is a big area."
+            },
+            "oshikwanyama":{
+                "word":"Onhele",
+                "usage":"Onhele ei oyakula."
+            }
+	},
+        {
+            "english": {
+                "word":"Bee",
+                "usage":"A bee flies."
+            },
+            "oshikwanyama":{
+                "word":"Onyiki",
+                "usage":"Onyiki ohai tuka."
+            }
+	},
+        {
+            "english": {
+                "word":"Baby",
+                "usage":"We have a baby in our house."
+            },
+            "oshikwanyama":{
+                "word":"Okahanana",
+                "usage":"Otuna okahanana meumbo letu."
+            }
+	},
+        {
+            "english": {
+                "word":"Behind",
+                "usage":"We are behind schedule.."
+            },
+            "oshikwanyama":{
+                "word":"Konima",
+                "usage":"Otuli konima melandulafano."
+            }
+	},
+        {
+            "english": {
+                "word":"Bag",
+                "usage":"That is my bag."
+            },
+            "oshikwanyama":{
+                "word":"Ondjato",
+                "usage":"Oyo ondjato yange."
+            }
+	},
+        {
+            "english": {
+                "word":"Bandana",
+                "usage":"I am wearing a bandana on my head."
+            },
+            "oshikwanyama":{
+                "word":"Oshikaiwa",
+                "usage":"Ondelimanga oshikaiwa komutwe.."
+            }
+	},
+        {
+            "english": {
+                "word":"Book",
+                "usage":"I like that book!!."
+            },
+            "oshikwanyama":{
+                "word":"Embo",
+                "usage":"Ondihole embo olo!!."
+            }
+	},
+        {
+            "english": {
+                "word":"Beard",
+                "usage":"He has a long beard."
+            },
+            "oshikwanyama":{
+                "word":"Eendjedi",
+                "usage":"Ye okuna eedjedi dile."
+            }
+   	 },
+        {
+            "english": {
+                "word":"Bear",
+                "usage":"A bear can eat you."
+            },
+            "oshikwanyama":{
+                "word":"Emwangha",
+                "usage":"Emwangha otali dulu okukulyapo."
+		}
+            },
+        {
+            "english": {
+                "word":"Beat",
+                "usage":"Mom will beat you."
+            },
+            "oshikwanyama":{
+                "word":"Denga",
+                "usage":"Meme oteku denge."
+		}
+            },
+        {
+            "english": {
+                "word":"Bone",
+                "usage":"The dog ate the bone."
+            },
+            "oshikwanyama":{
+                "word":"Ekipa",
+                "usage":"Ombwa oyalya ekipa."
+		}
+            },
+        {
+            "english": {
+                "word":"Behavior",
+                "usage":"Change your behavior."
+            },
+
+            "oshikwanyama":{
+                "word":"Elihumbato",
+                "usage":"Lundulula elihumbato loye."
+		}
+          },
+ 	{
+            "english": {
+                "word":"Butterfly",
+                "usage":"The butterfly has beautiful colors on its wings."
+            },
+            "oshikwanyama":{
+                "word":"Onghanga",
+                "usage":"Onghanga oina omavava ena omavala mawa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Comb",
+                "usage":"I comb my hair with a comb."
+            },
+            "oshikwanyama":{
+                "word":"Oshikamule",
+                "usage":"Ohandili kamula momutwe noshikamule."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Calabash",
+                "usage":"We store water in a calabash."
+            },
+            "oshikwanyama":{
+                "word":"Oshiyuma",
+                "usage":"Ohatu tula omeva moshiyuma."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Cat",
+                "usage":"The cat is black.."
+            },
+            "oshikwanyama":{
+                "word":"Okambishi",
+                "usage":"Okambishi okalaula.."
+            }
+        },
+	 {
+            "english": {
+                "word":"Crocodile",
+                "usage":"There is a crocodile in the water."
+            },
+            "oshikwanyama":{
+                "word":"Ongadu",
+                "usage":"Momeva omuna omgadu.."
+            }
+        },
+	 {
+            "english": {
+                "word":"Clock",
+                "usage":"The clock is hanging on the wall."
+            },
+            "oshikwanyama":{
+                "word":"Ovili",
+                "usage":"Ovili oili kekuma.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Cupboard",
+                "usage":"The cups are kept in the cupboard."
+            },
+            "oshikwanyama":{
+                "word":"Oskopa",
+                "usage":"Oukopi ohaukala moskopa."
+            }
+        },
+
+ 	{
+            "english": {
+                "word":"Count",
+                "usage":"We count in the math class.."
+            },
+            "oshikwanyama":{
+                "word":"Valula",
+                "usage":"Ohatu valula mongulu yomwaalu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Car",
+                "usage":"The car is fast.."
+            },
+            "oshikwanyama":{
+                "word":"Otuwa",
+                "usage":"Otuwa ohai endelele.."
+            }
+        },
+	 {
+            "english": {
+                "word":"Chalkboard",
+                "usage":"The teacher writes on the chalkboard."
+            },
+            "oshikwanyama":{
+                "word":"Oshipelende",
+                "usage":"Omulongi ohanyola koshipelende."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Choice",
+                "usage":"The choice is yours.."
+            },
+            "oshikwanyama":{
+                "word":"Ehoololo",
+                "usage":"Ehoolol oloye mwene."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Church",
+                "usage":"We go to church on Sunday."
+            },
+            "oshikwanyama":{
+                "word":"Ongeleka",
+                "usage":"Ohatu i kongeleka mosoondaxa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Cheap",
+                "usage":"This store has cheap products."
+            },
+            "oshikwanyama":{
+                "word":"Ombilixa",
+                "usage":"Ofitola ei oina oinima ina ombilixa."
+            }
+        },
+	 {
+            "english": {
+                "word":"Chicken",
+                "usage":"The chicken has a lot of feathers."
+            },
+            "oshikwanyama":{
+                "word":"Oxuxwa",
+                "usage":"Oxuxwa oina omalweenya mahapu."
+            }
+        },
+
+ 	{
+            "english": {
+                "word":"Catch",
+                "usage":"Catch that goat.."
+            },
+            "oshikwanyama":{
+                "word":"Kwata",
+                "usage":"Kwata oshikombo osho."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Drive",
+                "usage":"Drive the car."
+            },
+            "oshikwanyama":{
+                "word":"Shinga",
+                "usage":"Shinga otuwa."
+            }
+        },
+	 {
+            "english": {
+                "word":"Dress",
+                "usage":"The dress is long."
+            },
+            "oshikwanyama":{
+                "word":"Oshikutu",
+                "usage":"Osikutu oshile."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Draw",
+                "usage":"The children like to draw."
+            },
+            "oshikwanyama":{
+                "word":"Faneka",
+                "usage":"Ounona ouhole okufaneka."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Day",
+                "usage":"Enjoy your day."
+            },
+            "oshikwanyama":{
+                "word":"Efiku",
+                "usage":"Nyakukilwa efiku loye."
+            }
+        },
+	 {
+            "english": {
+                "word":"Diamonds",
+                "usage":"Diamonds are very expensive."
+            },
+            "oshikwanyama":{
+                "word":"Okawe",
+                "usage":"Okawe okena ondilo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Dig",
+                "usage":"Ask me a question."
+            },
+            "oshikwanyama":{
+                "word":"Pula",
+                "usage":"Pula epulo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Dig",
+                "usage":"Dig the hole in the field."
+            },
+            "oshikwanyama":{
+                "word":"Fa",
+                "usage":"Fa elambo mepya."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Drink",
+                "usage":"Drink the water."
+            },
+            "oshikwanyama":{
+                "word":"Nwa",
+                "usage":"Nwa omeva.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Distance",
+                "usage":"There is a long distance between our houses."
+            },
+            "oshikwanyama":{
+                "word":"Oshinano",
+                "usage":"Ope oshinano shile pokati komaumbo etu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Dodge",
+                "usage":"She dodged the ball."
+            },
+            "oshikwanyama":{
+                "word":"Hepa",
+                "usage":"Ye okwa hepa etanga."
+            }
+        },
+	 {
+            "english": {
+                "word":"Doll",
+                "usage":"They bought me a doll."
+            },
+            "oshikwanyama":{
+                "word":"Okapopifa",
+                "usage":"Ovalandelange okapopifa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Dog",
+                "usage":"The dog is barking."
+            },
+            "oshikwanyama":{
+                "word":"Ombwa",
+                "usage":"Ombwa otaiweda."
+            }
+        },
+	 {
+            "english": {
+                "word":"Door",
+                "usage":"Open the door."
+            },
+            "oshikwanyama":{
+                "word":"Omuvelo",
+                "usage":"Yeulula omuvelo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Dead",
+                "usage":"The bird is dead."
+            },
+            "oshikwanyama":{
+                "word":"Fya",
+                "usage":"Okadila okafya."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Elephant",
+                "usage":"The elephant is strong."
+            },
+            "oshikwanyama":{
+                "word":"Ondjaba",
+                "usage":"Ondjaba oina eenghono."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Eagle",
+                "usage":"The eagle flies high in the sky."
+            },
+            "oshikwanyama":{
+                "word":"Ekodi",
+                "usage":"Ekodi ohalituka mokule mombada."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Ease",
+                "usage":"She did it with ease."
+            },
+            "oshikwanyama":{
+                "word":"Noupu",
+                "usage":"Okweshipondola noupu.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Eat",
+                "usage":"Eat up your food."
+            },
+            "oshikwanyama":{
+                "word":"Lya",
+                "usage":"Lyapo oikukya yoye."
+            }
+        },
+	{
+            "english": {
+                "word":"Electricity",
+                "usage":"The electricity went off."
+            },
+            "oshikwanyama":{
+                "word":"Olusheno",
+                "usage":"Olusheno oladima."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Edge",
+                "usage":"She is standing on the edge of the wall."
+            },
+            "oshikwanyama":{
+                "word":"Komukunghulo",
+                "usage":"Ye okwafikama komukunghulo wekuma."
+            }
+        },
+	{
+            "english": {
+                "word":"End ",
+                "usage":"This is the end of the story.."
+            },
+            "oshikwanyama":{
+                "word":"Exulilo",
+                "usage":"Eli olo exulilo letotwahokololo.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Enemy",
+                "usage":"Tom is my enemy."
+            },
+            "oshikwanyama":{
+                "word":"Omutondi",
+                "usage":"Tom oye omutondi wange."
+            }
+        },
+	{
+            "english": {
+                "word":"Explain",
+                "usage":"Explain this phrase."
+            },
+            "oshikwanyama":{
+                "word":"Fatulula",
+                "usage":"Fatulula etumbulo eli.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Explode",
+                "usage":"The bomb can explode.."
+            },
+            "oshikwanyama":{
+                "word":"Topa",
+                "usage":"Oshitopifa (oboma) otashidulu okutopa."
+            }
+        },
+	{
+            "english": {
+                "word":"Eye",
+                "usage":"She struck my eye."
+            },
+            "oshikwanyama":{
+                "word":"Eisho",
+                "usage":"Ye okwatwa nge meisho."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Ears",
+                "usage":"Anna has small ears."
+            },
+            "oshikwanyama":{
+                "word":"Omatwi",
+                "usage":"Anna okuna omatwi mashona."
+            }
+        },
+	{
+            "english": {
+                "word":"Eyewitness",
+                "usage":"An eyewitness can help with your case."
+            },
+            "oshikwanyama":{
+                "word":"Ombangi",
+                "usage":"Ombangi otai dulu okuku kwafela noshibofa shoye."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Follow",
+                "usage":"Follow the path."
+            },
+            "oshikwanyama":{
+                "word":"Landula",
+                "usage":"Landula okandjila.."
+            }
+        },
+	{
+            "english": {
+                "word":"Fire",
+                "usage":"The fire is burning the house."
+            },
+            "oshikwanyama":{
+                "word":"Omundilo",
+                "usage":"Omundilo otauxwikwpo eumbo.."
+            }
+        },
+	 {
+            "english": {
+                "word":"Fight",
+                "usage":"Do not fight each other.."
+            },
+            "oshikwanyama":{
+                "word":"Okulwa",
+                "usage":"Imamu lwa nande."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Flowers",
+                "usage":"I love flowers."
+            },
+            "oshikwanyama":{
+                "word":"Eengala",
+                "usage":"Ondihole eengala.."
+            }
+        },
+	{
+            "english": {
+                "word":"Fish ",
+                "usage":"Fish stay in the water."
+            },
+            "oshikwanyama":{
+                "word":"Eeshi",
+                "usage":"Eeshi ohadi kala momeva."
+            }
+        },
+	 {
+            "english": {
+                "word":"Finish",
+                "usage":"Hurry up and finish."
+            },
+            "oshikwanyama":{
+                "word":"Mana",
+                "usage":"Endelela ndee tomane."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Far",
+                "usage":"That place is far."
+            },
+            "oshikwanyama":{
+                "word":"Kokule",
+                "usage":"Onhele oyo oili kokule."
+            }
+        },
+	 {
+            "english": {
+                "word":"Friend",
+                "usage":"Sam is my friend."
+            },
+            "oshikwanyama":{
+                "word":"Kaume",
+                "usage":"Sam okaume kange."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Fail",
+                "usage":"If you don’t study, you will fail."
+            },
+            "oshikwanyama":{
+                "word":"Dopa",
+                "usage":"Ngeenge itolesha, otodopa."
+            }
+        },
+	 {
+            "english": {
+                "word":"Face",
+                "usage":"Wash your face."
+            },
+            "oshikwanyama":{
+                "word":"Oshipala",
+                "usage":"Likosha moshipala.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Fix",
+                "usage":"Fix the door."
+            },
+            "oshikwanyama":{
+                "word":"Pangela",
+                "usage":"Pangela omuvelo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Fur",
+                "usage":"The sheep has a lot of fur."
+            },
+            "oshikwanyama":{
+                "word":"Olududi",
+                "usage":"POdi oina olududi luhapu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Faint",
+                "usage":"The patient will faint."
+            },
+            "oshikwanyama":{
+                "word":"Ngabuka",
+                "usage":"Omunaudu otangabuka."
+            }
+        },
+	 {
+            "english": {
+                "word":"Grass",
+                "usage":"The cow eats grass."
+            },
+            "oshikwanyama":{
+                "word":"Omwiidi",
+                "usage":"Ongobe ohaili omwiidi."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Give",
+                "usage":"Give them water."
+            },
+            "oshikwanyama":{
+                "word":"Yandja",
+                "usage":"Vapa omeva."
+            }
+        },
+	 {
+            "english": {
+                "word":"Ghost",
+                "usage":"There is a ghost in the cemetery."
+            },
+            "oshikwanyama":{
+                "word":"Osilulu",
+                "usage":"Momaendo omuna oshilulu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Girl",
+                "usage":"Paulina is a girl."
+            },
+            "oshikwanyama":{
+                "word":"Okakadona",
+                "usage":"Paulina okakadona."
+            }
+        },
+	 {
+            "english": {
+                "word":"Go",
+                "usage":"Go home."
+            },
+            "oshikwanyama":{
+                "word":"Inda",
+                "usage":"Inda keumbo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"God ",
+                "usage":"God is the creator of all."
+            },
+            "oshikwanyama":{
+                "word":"Kalunga",
+                "usage":"Kalunga omushiti waaishe."
+            }
+        },
+	 {
+            "english": {
+                "word":"Grill",
+                "usage":"Grill the meat."
+            },
+            "oshikwanyama":{
+                "word":"Yofa",
+                "usage":"Yofa ombelela."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Guitar",
+                "usage":"Play the guitar."
+            },
+            "oshikwanyama":{
+                "word":"Oshiketala",
+                "usage":"Dana oshiketala."
+            }
+        },
+	 {
+            "english": {
+                "word":"Guest",
+                "usage":"She is our guest."
+            },
+            "oshikwanyama":{
+                "word":"Omweenda",
+                "usage":"Ye omweenda wetu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Goat",
+                "usage":"The goat has a kid."
+            },
+            "oshikwanyama":{
+                "word":"Oshikombo",
+                "usage":"Oshikombo oshina okakombwena."
+            }
+        },
+	 {
+            "english": {
+                "word":"Grapes",
+                "usage":"Grapes are healthy."
+            },
+            "oshikwanyama":{
+                "word":"Omandjebele",
+                "usage":"Omandjebele okuna oukolele."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Gun ",
+                "usage":"Shoot with the gun."
+            },
+            "oshikwanyama":{
+                "word":"Omdjebo",
+                "usage":"Yasha nondjebo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Grab",
+                "usage":"Don’t grab the food."
+            },
+            "oshikwanyama":{
+                "word":"Nyekula",
+                "usage":"Ino nyekula oikulya."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Hang",
+                "usage":"Hang the clothes on the washing line."
+            },
+            "oshikwanyama":{
+                "word":"Leka",
+                "usage":"Leka oikutu komuleko."
+            }
+        },
+	 {
+            "english": {
+                "word":"Hole",
+                "usage":"There is a hole in the wall."
+            },
+            "oshikwanyama":{
+                "word":"Ombululu",
+                "usage":"Ekuma olina ombululu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Helicopter",
+                "usage":"The helicopter is fast."
+            },
+            "oshikwanyama":{
+                "word":"Edakadaka",
+                "usage":"Edakadaka ohali endelele."
+            }
+        },
+	 {
+            "english": {
+                "word":"Hair",
+                "usage":"Maria has long hair."
+            },
+            "oshikwanyama":{
+                "word":"Eexwiki",
+                "usage":"Maria okuna eexwiki dile."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Half",
+                "usage":"Give me half of your bread."
+            },
+            "oshikwanyama":{
+                "word":"Oshitata",
+                "usage":"Penge oshitata shomboloto yoye."
+            }
+        },
+	 {
+            "english": {
+                "word":"Harm",
+                "usage":"Do not harm the children."
+            },
+            "oshikwanyama":{
+                "word":"Yehameka",
+                "usage":"Ino yehameka ounona."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Hear",
+                "usage":"I hear their cry"
+            },
+            "oshikwanyama":{
+                "word":"Uda",
+                "usage":"Onduudite ekweno lavo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Heart",
+                "usage":"My heart is beating fast."
+            },
+            "oshikwanyama":{
+                "word":"Omutima",
+                "usage":"Omutima wange otaudenge taweendelele."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Heal",
+                "usage":"My wound has healed."
+            },
+            "oshikwanyama":{
+                "word":"Veluka",
+                "usage":"Oshipute shange oshaveluka."
+            }
+        },
+	 {
+            "english": {
+                "word":"Head",
+                "usage":"Ben has a big head."
+            },
+            "oshikwanyama":{
+                "word":"Omutwe",
+                "usage":"Ben okuna omutwe wakula."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Handbag",
+                "usage":"The thief stole my handbag"
+            },
+            "oshikwanyama":{
+                "word":"Okandjato kopeke",
+                "usage":"Ombudi oyavaka po okandjato kange kopeke."
+            }
+        },
+	 {
+            "english": {
+                "word":"Hat",
+                "usage":"My hat is black."
+            },
+            "oshikwanyama":{
+                "word":"Embale",
+                "usage":"Embale lange olilaula."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Hallway",
+                "usage":"Stand in the hallway."
+            },
+            "oshikwanyama":{
+                "word":"Omukala",
+                "usage":"Fikama momukala."
+            }
+        },
+	 {
+            "english": {
+                "word":"Inside",
+                "usage":"Go inside the house."
+            },
+            "oshikwanyama":{
+                "word":"Meni",
+                "usage":"Inda meni leumbo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Idea",
+                "usage":"I have a good idea."
+            },
+            "oshikwanyama":{
+                "word":"Ediladilo",
+                "usage":"Ondina ediladilo liwa."
+            }
+        },
+	 {
+            "english": {
+                "word":"Idol",
+                "usage":"Do not have an idol."
+            },
+            "oshikwanyama":{
+                "word":"Oshikalunga",
+                "usage":"Inokala noshikalunga.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Inappropriate",
+                "usage":"It is inappropriate to curse."
+            },
+            "oshikwanyama":{
+                "word":"Inashiwapala",
+                "usage":"Inashiwapala okutukana."
+            }
+        },
+	 {
+            "english": {
+                "word":"Incident",
+                "usage":"There was an incident like that."
+            },
+            "oshikwanyama":{
+                "word":"Oshiningwanima",
+                "usage":"Opali oshiningwanima shili ngaho."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Include",
+                "usage":"Include the bread."
+            },
+            "oshikwanyama":{
+                "word":"Kwatelamo",
+                "usage":"Kwatwlamo omboloto."
+            }
+        },
+	 {
+            "english": {
+                "word":"Inject",
+                "usage":"Inject the child on the shoulder."
+            },
+            "oshikwanyama":{
+                "word":"Venda",
+                "usage":"Venda okaana pepepe."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Inform",
+                "usage":"Inform the people about the rain.."
+            },
+            "oshikwanyama":{
+                "word":"Shiivifila",
+                "usage":"Shiivifila ovanhu kombinga yodula."
+            }
+        },
+	 {
+            "english": {
+                "word":"Intention",
+                "usage":"My intention is to create a dictionary."
+            },
+            "oshikwanyama":{
+                "word":"Elalakamo",
+                "usage":"Elalakano lange olokuninga embwiitya."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Isolate",
+                "usage":"Isolate the calves from the cows."
+            },
+            "oshikwanyama":{
+                "word":"Tongola",
+                "usage":"Tongola outana meengobe"
+            }
+        },
+	 {
+            "english": {
+                "word":"Itching",
+                "usage":"I am itching."
+            },
+            "oshikwanyama":{
+                "word":"Okunyuwa",
+                "usage":"Ohandi nyuwa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Jump",
+                "usage":"Jump in the water."
+            },
+            "oshikwanyama":{
+                "word":"Nhuka",
+                "usage":"Nhukila momeva."
+            }
+        },
+	 {
+            "english": {
+                "word":"Jacket",
+                "usage":"That is my jacket."
+            },
+            "oshikwanyama":{
+                "word":"Ondjafa",
+                "usage":"Oyo ondjafa yange."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Jail",
+                "usage":"Sam is in jail."
+            },
+            "oshikwanyama":{
+                "word":"Odolongo",
+                "usage":"Sam okuli modolongo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Jungle",
+                "usage":"The animals are in the jungle."
+            },
+            "oshikwanyama":{
+                "word":"Ofuka",
+                "usage":"Oinamwenyo oili mofuka."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Jug",
+                "usage":"Put the jug on the table."
+            },
+            "oshikwanyama":{
+                "word":"Ekopi",
+                "usage":"Tula ekopi poshitaafula.."
+            }
+        },
+	 {
+            "english": {
+                "word":"Junction",
+                "usage":"From the junction, turn left."
+            },
+            "oshikwanyama":{
+                "word":"Omashakeneno",
+                "usage":"Uka kolumosho okudja pomashakeneno"
+            }
+        },
+ 	{
+            "english": {
+                "word":"Jackal",
+                "usage":"The jackal will bite you."
+            },
+            "oshikwanyama":{
+                "word":"Kavandje",
+                "usage":"Kavandje otekulumata."
+            }
+        },
+	 {
+            "english": {
+                "word":"Jokes",
+                "usage":"You have bad jokes."
+            },
+            "oshikwanyama":{
+                "word":"Omashendjo",
+                "usage":"Ouna omashendjo mai."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Journalist",
+                "usage":"The journalist is reading the news."
+            },
+            "oshikwanyama":{
+                "word":"Omutoolinghundana",
+                "usage":"Omutoolinghundana otalesha eenghundana."
+            }
+        },
+	 {
+            "english": {
+                "word":"Jealous",
+                "usage":"It is not good to be jealous."
+            },
+            "oshikwanyama":{
+                "word":"Ondubo",
+                "usage":"Kashiwa okukala una ondubo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Knife",
+                "usage":"The knife will cut you."
+            },
+            "oshikwanyama":{
+                "word":"Ombele",
+                "usage":"Ombele otai kutete."
+            }
+        },
+	 {
+            "english": {
+                "word":"Kitten",
+                "usage":"Our cat has a kitten."
+            },
+            "oshikwanyama":{
+                "word":"Okambishona",
+                "usage":"Okambishi ketu okena oumbishona."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Key",
+                "usage":"Open the lock with the key."
+            },
+            "oshikwanyama":{
+                "word":"Oshapi",
+                "usage":"Patulula ekumba noshapi."
+            }
+        },
+	 {
+            "english": {
+                "word":"Kick",
+                "usage":"Kick the ball."
+            },
+            "oshikwanyama":{
+                "word":"Fanga",
+                "usage":"Fanga etanga."
+            }
+        },
+ 	{
+            "english": {
+                "word":"King",
+                "usage":"The king is coming."
+            },
+            "oshikwanyama":{
+                "word":"Ohamba",
+                "usage":"Ohamba otai uya."
+            }
+        },
+	 {
+            "english": {
+                "word":"Knee",
+                "usage":"I hurt my knee."
+            },
+            "oshikwanyama":{
+                "word":"Ongolo",
+                "usage":"Onda ehameka omgolo yange."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Knock",
+                "usage":"Knock before you enter."
+            },
+            "oshikwanyama":{
+                "word":"Konghola",
+                "usage":"Konghola managa ino uyamo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Kraal",
+                "usage":"The cows sleep in the kraal."
+            },
+            "oshikwanyama":{
+                "word":"Oshuunda",
+                "usage":"Eengobe ohadi nangala moshuunda."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Knot",
+                "usage":"The rope has a knot."
+            },
+            "oshikwanyama":{
+                "word":"Edita",
+                "usage":"Ongodi oina edita."
+            }
+        },
+	 {
+            "english": {
+                "word":"Kidneys",
+                "usage":"My kidneys are healthy."
+            },
+            "oshikwanyama":{
+                "word":"Eefiyo",
+                "usage":"Eefiyo dange odina oukolele."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Left",
+                "usage":"Go to the left."
+            },
+            "oshikwanyama":{
+                "word":"Olumosho",
+                "usage":"Inda kolumosho.."
+            }
+        },
+	 {
+            "english": {
+                "word":"Look",
+                "usage":"Look at the birds."
+            },
+            "oshikwanyama":{
+                "word":"Tala",
+                "usage":"Tala koudila."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Leaves",
+                "usage":"The tree has many leaves."
+            },
+            "oshikwanyama":{
+                "word":"Omafo",
+                "usage":"Omuti ouna omafo mahapu."
+            }
+        },
+	 {
+            "english": {
+                "word":"Laugh",
+                "usage":"I want to laugh."
+            },
+            "oshikwanyama":{
+                "word":"Yola",
+                "usage":"Ondahala okuyola."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Lawn",
+                "usage":"The lawn is green."
+            },
+            "oshikwanyama":{
+                "word":"Ongwena",
+                "usage":"Ongwena oyaziza."
+            }
+        },
+	 {
+            "english": {
+                "word":"Liar",
+                "usage":"Selma is a liar."
+            },
+            "oshikwanyama":{
+                "word":"Omunaipupulu",
+                "usage":"Selma omunaipupulu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Lid",
+                "usage":"Put the lid back on the bottle."
+            },
+            "oshikwanyama":{
+                "word":"Oshituviko",
+                "usage":"Shunsko oshituviko kendini."
+            }
+        },
+	 {
+            "english": {
+                "word":"Lift",
+                "usage":"Lift that box."
+            },
+            "oshikwanyama":{
+                "word":"Yelula",
+                "usage":"Yelula oshipakete osho."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Lock",
+                "usage":"Lock the door."
+            },
+            "oshikwanyama":{
+                "word":"Pata",
+                "usage":"Patapo pomuvelo."
+            }
+        },	
+ {
+            "english": {
+                "word":"Ask",
+                "usage":"Ask me a question."
+            },
+            "oshikwanyama":{
+                "word":"Pula",
+                "usage":"Pula epulo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Law",
+                "usage":"The law does not allow it."
+            },
+            "oshikwanyama":{
+                "word":"Omhango",
+                "usage":"Omhango inai shipitika."
+            }
+        },
+	 {
+            "english": {
+                "word":"Lean ",
+                "usage":"Lean on my shoulder."
+            },
+            "oshikwanyama":{
+                "word":"Yaamena",
+                "usage":"Yaamean kepepe lange."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Money",
+                "usage":"I need money."
+            },
+            "oshikwanyama":{
+                "word":"Oshimaliwa",
+                "usage":"Onda pumbwa oshimaliwa."
+            }
+        },
+	 {
+            "english": {
+                "word":"Milk",
+                "usage":"I like milk."
+            },
+            "oshikwanyama":{
+                "word":"Omashini",
+                "usage":"Ondihole omashini."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Machete",
+                "usage":"The machete is sharp."
+            },
+            "oshikwanyama":{
+                "word":"Ekatana",
+                "usage":"Ekatana olina eememo."
+            }
+        },
+	 {
+            "english": {
+                "word":"Mirror",
+                "usage":"The mirror is clean."
+            },
+            "oshikwanyama":{
+                "word":"Esipili",
+                "usage":"Esipili oliyela."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Middle",
+                "usage":"The child is standing in the middle of the road."
+            },
+            "oshikwanyama":{
+                "word":"Pokati",
+                "usage":"Okaana okafikama pokati kopate."
+            }
+        },
+	 {
+            "english": {
+                "word":"Message",
+                "usage":"I sent you a message."
+            },
+            "oshikwanyama":{
+                "word":"Etumwalaka",
+                "usage":"Ondeku tumina etumwalaka."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Mathematics",
+                "usage":"I hate mathematics."
+            },
+            "oshikwanyama":{
+                "word":"Omwaalu",
+                "usage":"Ondiyele omwaalu."
+            }
+        },
+	 {
+            "english": {
+                "word":"Meat",
+                "usage":"Meat is very delicious."
+            },
+            "oshikwanyama":{
+                "word":"Ombelela",
+                "usage":"Ombelela oinyenye."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Method",
+                "usage":"Your method is very fast. "
+            },
+            "oshikwanyama":{
+                "word":"Omukalo",
+                "usage":"Omukalo woye ohau endelele."
+            }
+        },
+	 {
+            "english": {
+                "word":"Mouse ",
+                "usage":"The mouse is under the bed."
+            },
+            "oshikwanyama":{
+                "word":"Omhuku",
+                "usage":"Omhuku oili koshi yombete."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Name",
+                "usage":"My name is Maria."
+            },
+            "oshikwanyama":{
+                "word":"Edina",
+                "usage":"Edian lange aame Maria."
+            }
+        },
+	 {
+            "english": {
+                "word":"News",
+                "usage":"We are watching the news."
+            },
+            "oshikwanyama":{
+                "word":"Eenghundana",
+                "usage":"Ohatu tale eenghundana."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Neck",
+                "usage":"The giraffe has a long neck."
+            },
+            "oshikwanyama":{
+                "word":"Ofingo",
+                "usage":"Onduli oina ofingo ile."
+            }
+        },
+	 {
+            "english": {
+                "word":"Neighbor",
+                "usage":"Our neighbor is loud."
+            },
+            "oshikwanyama":{
+                "word":"Omushiinda",
+                "usage":"Omushiinda wetu ohaweelele.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Nest",
+                "usage":"The birds nest is high in the tree."
+            },
+            "oshikwanyama":{
+                "word":"Oshihadi",
+                "usage":"Oshihadi shokadila oshili pombada komuti."
+            }
+        },
+	{
+            "english": {
+                "word":"Newspaper",
+                "usage":"I am reading the newspaper."
+            },
+            "oshikwanyama":{
+                "word":"Oshifokundaneki",
+                "usage":"Ohandi leasha oshifokundaneki."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Night",
+                "usage":"AIt is dark at night."
+            },
+            "oshikwanyama":{
+                "word":"Oufiku",
+                "usage":"Ohakukala kwalaula oufiku."
+            }
+        },
+	{
+            "english": {
+                "word":"Numbers",
+                "usage":"We use numbers in the math class."
+            },
+            "oshikwanyama":{
+                "word":"Eenomola",
+                "usage":"Ohatu longifa eenomola momwaalu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Noise",
+                "usage":"There is so much noise there."
+            },
+            "oshikwanyama":{
+                "word":"Eweelelo",
+                "usage":"Opena eweelelo lihapu opo."
+            }
+        },
+	{
+            "english": {
+                "word":"Nose",
+                "usage":"You have a small nose."
+            },
+            "oshikwanyama":{
+                "word":"Eyulu",
+                "usage":"Ouna eyulu lishona."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Nurse",
+                "usage":"There is a nurse at the clinic."
+            },
+            "oshikwanyama":{
+                "word":"Omupangi",
+                "usage":"Poka clinic opena omupangi."
+            }
+        },
+	{
+            "english": {
+                "word":"Objective",
+                "usage":"The objective is to pass the module."
+            },
+            "oshikwanyama":{
+                "word":"Elalakano",
+                "usage":"Elalakano olokupita oshilongwa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Office",
+                "usage":"You have a beautiful office."
+            },
+            "oshikwanyama":{
+                "word":"Ombelewa",
+                "usage":"Ouna ombelewa iwa."
+            }
+        },
+	{
+            "english": {
+                "word":"Oil",
+                "usage":"Put oil in the pot."
+            },
+            "oshikwanyama":{
+                "word":"Omaadi",
+                "usage":"Tula omaadi mombiya."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Once",
+                "usage":"It happened once."
+            },
+            "oshikwanyama":{
+                "word":"Lumwe",
+                "usage":"Oshaholoka ashike lumwe."
+            }
+        },
+	{
+            "english": {
+                "word":"Onion",
+                "usage":"The onion is making me cry."
+            },
+            "oshikwanyama":{
+                "word":"Onyanga",
+                "usage":"Onyanga otai kwenifange."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Opportunity",
+                "usage":"Thank you for the opportunity."
+            },
+            "oshikwanyama":{
+                "word":"Omhito",
+                "usage":"Tangi komhito."
+            }
+        },
+	{
+            "english": {
+                "word":"Oasis",
+                "usage":"There is a lot of water in the oasis."
+            },
+            "oshikwanyama":{
+                "word":"Ofifiya",
+                "usage":"Mofifiya omuna omeva mahapu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Outfit",
+                "usage":"I love your outfit."
+            },
+            "oshikwanyama":{
+                "word":"Omudjalo",
+                "usage":"Ondihole omudjalo woye."
+            }
+        },
+	{
+            "english": {
+                "word":"Ocean",
+                "usage":"The ocean is vast."
+            },
+            "oshikwanyama":{
+                "word":"Efuta",
+                "usage":"Efuta olakula.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Or",
+                "usage":"Are you coming or are you staying."
+            },
+            "oshikwanyama":{
+                "word":"Ile",
+                "usage":"Otoya ile otokalapo."
+            }
+        },
+	{
+            "english": {
+                "word":"Or",
+                "usage":"Ask me a question."
+            },
+            "oshikwanyama":{
+                "word":"Pula",
+                "usage":"Pula epulo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Paper",
+                "usage":"Write on the paper."
+            },
+            "oshikwanyama":{
+                "word":"Ombapila",
+                "usage":"Shanaga pombapila."
+            }
+        },
+	{
+            "english": {
+                "word":"Petrol",
+                "usage":"Put petrol in the car."
+            },
+            "oshikwanyama":{
+                "word":"Omahooli",
+                "usage":"Tula omahooli motuwa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Pull",
+                "usage":"Pull the rope."
+            },
+            "oshikwanyama":{
+                "word":"Nana",
+                "usage":"Nana ongodi."
+            }
+        },
+	{
+            "english": {
+                "word":"Picture",
+                "usage":"This picture is beautiful."
+            },
+            "oshikwanyama":{
+                "word":"Efano",
+                "usage":"Efano eli oliwa."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Place",
+                "usage":"This is my place."
+            },
+            "oshikwanyama":{
+                "word":"Onhele",
+                "usage":"Ei onhele yange."
+            }
+        },
+	{
+            "english": {
+                "word":"Paste",
+                "usage":"Paste picture in the book."
+            },
+            "oshikwanyama":{
+                "word":"Nateka",
+                "usage":"Nateka efano membo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Pastor",
+                "usage":"The pastor is preaching in the church."
+            },
+            "oshikwanyama":{
+                "word":"Omufita",
+                "usage":"Omufita otaudifa mongeleka."
+            }
+        },
+	{
+            "english": {
+                "word":"Permission",
+                "usage":"I have been given permission to vote."
+            },
+            "oshikwanyama":{
+                "word":"Epitikilo",
+                "usage":"Ondapewa epitikilo lokuhoolola.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Pierce",
+                "usage":"I am going to pierce my nose."
+            },
+            "oshikwanyama":{
+                "word":"Tjuula",
+                "usage":"Ohandi ka tjuula eyulu lange."
+            }
+        },
+	{
+            "english": {
+                "word":"Pig",
+                "usage":"The pig is dirty."
+            },
+            "oshikwanyama":{
+                "word":"Oshingulu",
+                "usage":"Oshingulu oshakaka."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Queen",
+                "usage":"The queen of oukwanayama is Mwadhina."
+            },
+            "oshikwanyama":{
+                "word":"Omunyekadi",
+                "usage":"Omunyekadi woukwanyama oye Mwadhina."
+            }
+        },
+	{
+            "english": {
+                "word":"Question",
+                "usage":"As me a question."
+            },
+            "oshikwanyama":{
+                "word":"Epulo",
+                "usage":"Pulenge epulo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Queue",
+                "usage":"Stand in the queue."
+            },
+            "oshikwanyama":{
+                "word":"Omukweyo",
+                "usage":"Fikama momukweyo."
+            }
+        },
+	{
+            "english": {
+                "word":"Quiet",
+                "usage":"Keep quiet."
+            },
+            "oshikwanyama":{
+                "word":"Mwena",
+                "usage":"Kala wemwena."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Quarrel.",
+                "usage":"Don’t quarrel."
+            },
+            "oshikwanyama":{
+                "word":"Tanguna",
+                "usage":"Inamu tanguna."
+            }
+        },
+	{
+            "english": {
+                "word":"Run",
+                "usage":"Run fast."
+            },
+            "oshikwanyama":{
+                "word":"Lotoka",
+                "usage":"Lotoka tweendelele."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Rain",
+                "usage":"The rain is falling."
+            },
+            "oshikwanyama":{
+                "word":"Odula",
+                "usage":"Odula otai loko."
+            }
+        },
+	{
+            "english": {
+                "word":"Reading",
+                "usage":"I am reading a book."
+            },
+            "oshikwanyama":{
+                "word":"Lesha",
+                "usage":"Ohandi lesha embo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Recite",
+                "usage":"I recite poems."
+            },
+            "oshikwanyama":{
+                "word":"Tangumuna",
+                "usage":"Ohandi tangumuna outevo."
+            }
+        },
+	{
+            "english": {
+                "word":"Repeat",
+                "usage":"Repeat your sentence."
+            },
+            "oshikwanyama":{
+                "word":"Endulula",
+                "usage":"Endulula etumbulo loye."
+            }
+        },
+ 	{
+            "english": {
+                "word":"River",
+                "usage":"The river is flowing fast."
+            },
+            "oshikwanyama":{
+                "word":"Omulonga",
+                "usage":"Omulonga otau endelele."
+            }
+        },
+	{
+            "english": {
+                "word":"Ruler",
+                "usage":"I am using the ruler."
+            },
+            "oshikwanyama":{
+                "word":"Okatendifo",
+                "usage":"Ohandi longifa okatendifo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Recognize",
+                "usage":"I can recognize you."
+            },
+            "oshikwanyama":{
+                "word":"Dimbulukwa",
+                "usage":"Ohandiku dimbulukwa."
+            }
+        },
+	{
+            "english": {
+                "word":"Report",
+                "usage":"Report her to mom."
+            },
+            "oshikwanyama":{
+                "word":"Lopota",
+                "usage":"Mulopota kumeme."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Results",
+                "usage":"My results are positive."
+            },
+            "oshikwanyama":{
+                "word":"Oidjemo",
+                "usage":"Oidjemo yange oiwa."
+            }
+        },
+	{
+            "english": {
+                "word":"Stone",
+                "usage":"The stone is black."
+            },
+            "oshikwanyama":{
+                "word":"Emanya",
+                "usage":"Emanya olilaula."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Shop",
+                "usage":"The shop is closed."
+            },
+            "oshikwanyama":{
+                "word":"Ofitola",
+                "usage":"Ofitola oya pata."
+            }
+        },
+	{
+            "english": {
+                "word":"School",
+                "usage":"School is open."
+            },
+            "oshikwanyama":{
+                "word":"Ofikola",
+                "usage":"Ofikola oya patuluka"
+            }
+        },
+ 	{
+            "english": {
+                "word":"Start",
+                "usage":"Start writing."
+            },
+            "oshikwanyama":{
+                "word":"Tameka",
+                "usage":"Tameka okushanga.."
+            }
+        },
+	{
+            "english": {
+                "word":"Spear",
+                "usage":"The spear is sharp."
+            },
+            "oshikwanyama":{
+                "word":"Ehonga",
+                "usage":"Ehonga olahonga."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Sleep",
+                "usage":"I want to sleep."
+            },
+            "oshikwanyama":{
+                "word":"Kofa",
+                "usage":"Ondahala okukofa."
+            }
+        },
+	{
+            "english": {
+                "word":"Swim",
+                "usage":"I can swim in the water."
+            },
+            "oshikwanyama":{
+                "word":"Yowa",
+                "usage":"Ohandi dulu okuyowa momeva."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Swallow",
+                "usage":"Swallow your food."
+            },
+            "oshikwanyama":{
+                "word":"Pona",
+                "usage":"Pona oikulya."
+            }
+        },
+	{
+            "english": {
+                "word":"Shoot ",
+                "usage":"Shoot the kudu."
+            },
+            "oshikwanyama":{
+                "word":"Yasha",
+                "usage":"Yasha ofino."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Soldier",
+                "usage":"My dad is a soldier."
+            },
+            "oshikwanyama":{
+                "word":"Omkwaita",
+                "usage":"Tate wange omkwaita."
+            }
+        },
+	{
+            "english": {
+                "word":"Throw",
+                "usage":"Throw the ball."
+            },
+            "oshikwanyama":{
+                "word":"Kupula",
+                "usage":"Kupula etanga."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Task",
+                "usage":"Finish your task."
+            },
+            "oshikwanyama":{
+                "word":"Oshinakuwanifa",
+                "usage":"Mana oshinakuwaniaf shoye."
+            }
+        },
+	{
+            "english": {
+                "word":"Talk",
+                "usage":"Talk to me."
+            },
+            "oshikwanyama":{
+                "word":"Popya",
+                "usage":"Popya naame"
+            }
+        },
+ 	{
+            "english": {
+                "word":"Time",
+                "usage":"The time is now."
+            },
+            "oshikwanyama":{
+                "word":"Efimbo",
+                "usage":"Efimbo opaife."
+            }
+        },
+	{
+            "english": {
+                "word":"Tree",
+                "usage":"The tree is tall."
+            },
+            "oshikwanyama":{
+                "word":"Omuti",
+                "usage":"Omuti oule."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Tongue",
+                "usage":"I burnt my tongue with tea."
+            },
+            "oshikwanyama":{
+                "word":"Elaka",
+                "usage":"Ondaxwika elaka lange notee."
+            }
+        },
+	{
+            "english": {
+                "word":"Torch",
+                "usage":"Light the torch."
+            },
+            "oshikwanyama":{
+                "word":"Onyeka",
+                "usage":"Tema onyeka.."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Untie",
+                "usage":"Untie your shoes."
+            },
+            "oshikwanyama":{
+                "word":"Mangulula",
+                "usage":"Mangulula eenghaku doye."
+            }
+        },
+	{
+            "english": {
+                "word":"Unlock",
+                "usage":"Unlock the door."
+            },
+            "oshikwanyama":{
+                "word":"Patulula",
+                "usage":"Patulula omuvelo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Until",
+                "usage":"Play until you are tired."
+            },
+            "oshikwanyama":{
+                "word":"Fiyo",
+                "usage":"Dana fiyo tololoka."
+            }
+        },
+	{
+            "english": {
+                "word":"Use",
+                "usage":"Use water wisely."
+            },
+            "oshikwanyama":{
+                "word":"Longifa",
+                "usage":"Longifa omeva nokeka."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Usually",
+                "usage":"We usually sit there."
+            },
+            "oshikwanyama":{
+                "word":"Shito",
+                "usage":"Shito ohatu kala omutumba penya."
+            }
+        },
+	{
+            "english": {
+                "word":"Under",
+                "usage":"Sit under the tree."
+            },
+            "oshikwanyama":{
+                "word":"Koshi",
+                "usage":"Kala omutumba koshi yomuti."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Umbrella",
+                "usage":"Use the umbrella when it’s raining."
+            },
+            "oshikwanyama":{
+                "word":"Okanduda",
+                "usage":"Longifa okanduda ngeenge takulokwa."
+            }
+        },
+	{
+            "english": {
+                "word":"Value",
+                "usage":"This dress is of high quality."
+            },
+            "oshikwanyama":{
+                "word":"Ongushu",
+                "usage":"Osikutu eshi oshongushu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Voice",
+                "usage":"Use your voice."
+            },
+            "oshikwanyama":{
+                "word":"Ewi",
+                "usage":"Longifa ewi loye."
+            }
+        },
+	{
+            "english": {
+                "word":"Vote",
+                "usage":"You have to vote."
+            },
+            "oshikwanyama":{
+                "word":"Hoolola",
+                "usage":"Ouna okuhoolola."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Vulture",
+                "usage":"A vulture is a kind of bird."
+            },
+            "oshikwanyama":{
+                "word":"Onhwa",
+                "usage":"Onhwa oludi loudila."
+            }
+        },
+	{
+            "english": {
+                "word":"Veld",
+                "usage":"Cultivate your veld."
+            },
+            "oshikwanyama":{
+                "word":"Epya",
+                "usage":"Lima epay loye."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Village",
+                "usage":"The village has a lot of homes.."
+            },
+            "oshikwanyama":{
+                "word":"Omukunda",
+                "usage":"Omukunda oyadi omaumbo."
+            }
+        },
+	{
+            "english": {
+                "word":"Visit",
+                "usage":"We are going to visit our grandma."
+            },
+            "oshikwanyama":{
+                "word":"Talelapo",
+                "usage":"Ohatu katalelapo meekulu."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Vehicle",
+                "usage":"The vehicle is moving fast."
+            },
+            "oshikwanyama":{
+                "word":"Oshenifo",
+                "usage":"Osheendifo otasheendlele."
+            }
+        },
+	{
+            "english": {
+                "word":"Work",
+                "usage":"Work hard.."
+            },
+            "oshikwanyama":{
+                "word":"Longa",
+                "usage":"Longa noudiinini."
+            }
+        },
+	{
+            "english": {
+                "word":"Wind",
+                "usage":"The wind is strong."
+            },
+            "oshikwanyama":{
+                "word":"Omhepo",
+                "usage":"Omhepo oina eenghono."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Wipe",
+                "usage":"Wipe the window."
+            },
+            "oshikwanyama":{
+                "word":"Pushula",
+                "usage":"Pushula ekende."
+            }
+        },
+	{
+            "english": {
+                "word":"Water",
+                "usage":"Put the water in the cup."
+            },
+            "oshikwanyama":{
+                "word":"Omeva",
+                "usage":"Tula omeva mokakopi."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Wedding",
+                "usage":"We are attending a wedding.."
+            },
+            "oshikwanyama":{
+                "word":"Ohango",
+                "usage":"Ohatu I kohango."
+            }
+        },
+	{
+            "english": {
+                "word":"Wear",
+                "usage":"Wear your clothes."
+            },
+            "oshikwanyama":{
+                "word":"Djala",
+                "usage":"Djala oikutu yoye."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Window",
+                "usage":"Open the window."
+            },
+            "oshikwanyama":{
+                "word":"Ekende",
+                "usage":"Patulula ekende."
+            }
+        },
+	{
+            "english": {
+                "word":"Write",
+                "usage":"Write the letter."
+            },
+            "oshikwanyama":{
+                "word":"Shanga",
+                "usage":"Shanga onhumwafo."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Year",
+                "usage":"This is a long year."
+            },
+            "oshikwanyama":{
+                "word":"Odula",
+                "usage":"Ei odula ile."
+            }
+        },
+	{
+            "english": {
+                "word":"Yes",
+                "usage":"Yes, I do."
+            },
+            "oshikwanyama":{
+                "word":"Eheno",
+                "usage":"Eheno, ondahala."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Yesterday",
+                "usage":"Yesterday was very fun."
+            },
+            "oshikwanyama":{
+                "word":"Onghela",
+                "usage":"Onghela okwali efiku linyakula."
+            }
+        },
+	{
+            "english": {
+                "word":"Yard",
+                "usage":"Our yard is big."
+            },
+            "oshikwanyama":{
+                "word":"Ehalandjaja",
+                "usage":"Ehalandjaja letu olakula."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Yell",
+                "usage":"Yell out loud."
+            },
+            "oshikwanyama":{
+                "word":"Ingida",
+                "usage":"Ingida mokule."
+            }
+        },
+	{
+            "english": {
+                "word":"Zebra",
+                "usage":"The zebra has black and white stripes."
+            },
+            "oshikwanyama":{
+                "word":"Ongolo",
+                "usage":"Ongolo oina omavala matoka namaloula."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Zero",
+                "usage":"I got zero in the exams."
+            },
+            "oshikwanyama":{
+                "word":"Nola",
+                "usage":"Ondamona nola mekonaakono."
+            }
+        },
+	{
+            "english": {
+                "word":"Zip",
+                "usage":"Zip the bag."
+            },
+            "oshikwanyama":{
+                "word":"Kweya",
+                "usage":"Kweya ondjato."
+            }
+        },
+ 	{
+            "english": {
+                "word":"Zipper",
+                "usage":"My zipper is broken"
+            },
+            "oshikwanyama":{
+                "word":"Oshikweyo",
+                "usage":"Oshikweyo shange oshateka."
+            }
+        }
+        
+    ]
+}
